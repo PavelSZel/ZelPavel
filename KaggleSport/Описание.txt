@@ -3,7 +3,8 @@
 /data - данные для обучения (https://www.kaggle.com/datasets/mikhailma/russian-social-media-text-classification/data)
 LogReg_and_RandFor_SportClassification - Обучение моделей логистической регрессии рандомного леса с помощью библиотеки natasha
 LogRegModel.dill - сохранённая модель логистической регрессии(векторизатор + модель)
-BertSportClassification - обучение модели bert
+BertSportClassification - обучение модели bert для локального ознакомления. GitHub не показывает файл из-за виджетов. 
+BertSportClassification.2 - файл обучения без выходов ячеек, для ознакомления с процессом на GitHub
 /model - сохранённая модель bert
 SportClassification.py - реализация FastApi для двух моделей
 

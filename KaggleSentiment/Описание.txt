@@ -1,5 +1,6 @@
 Папка содержит следующие файлы:
-BertSentimentClassification - код обучения Bert
+BertSentimentClassification - код обучения Bert(Из-за виджетов не отображается на GitHub, но его можно скачать и посмотреть локально)
+BertSentimentClassification2 - код обучения модели с удаленными выходами для ознакомления на GitHub
 SentimentCatBoost - код обучения Catboost
 SentimentAPI - код FastAPI для обработки post-запроса
 model.cbm - сохранённая модель CatBoost
