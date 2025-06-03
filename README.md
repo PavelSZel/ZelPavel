@@ -23,5 +23,4 @@
 
 
 
- 📧 Email: pavelzel95@gmail.com
  💬 Telegram: @pavel4710
