@@ -24,4 +24,4 @@
 
 
  📧 Email: pavelzel95@gmail.com
- 💬 Telegram: [pavel4710](https://t.me/pavel4710)
+ 💬 Telegram: @pavel4710
