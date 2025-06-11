@@ -19,6 +19,7 @@
 - [Классификация изображений](https://github.com/PavelSZel/ZelPavel/tree/master/StableDiffusion%20ImagesClassifier)
 - [Определение сентимента отзыва](https://github.com/PavelSZel/ZelPavel/tree/master/KaggleSentiment)
 - [Классификация текста по содержанию](https://github.com/PavelSZel/ZelPavel/tree/master/KaggleSport)
+- [Определение фрод транзакций](https://github.com/PavelSZel/ZelPavel/tree/master/Fraud%20detection%20with%20Streamlit)
 
 
 
